@@ -55,3 +55,11 @@ button:hover {
   text-align: center;
   margin-top: 10px;
 }
+@media (max-width: 576px) {
+  h2 {
+    font-size: 1.4rem;
+  }
+  button {
+    font-size: 0.9rem;
+  }
+}
